@@ -20,9 +20,10 @@ Install the required dependencies by running pip install -r requirements.txt.
 ## Running the App
 Execute the following command in your terminal to run the Streamlit app:
 
-bash
-Copy code
+(bash)
+Run:
 streamlit run app.py
+
 Access the app through your web browser to start exploring the predictions.
 
 ## Note
